@@ -1,5 +1,5 @@
-baseURL: ''
-title: TailBliss
+baseURL: 'https://gustavorebeloviola.github.io'
+title: Gustavo Rebelo
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -109,7 +109,7 @@ params:
     twitter:
       enabled: true
       url: 'https://twitter.com/nusserstudios'
-    
+
 
 menu:
   main:
